@@ -44,6 +44,6 @@ python FINAL_Frozen_Lake.py
 This will initiate the training process for the agent, evaluate its performance, and run a demonstration in the environment.
 
 ## Files in the Repository
-- `main.py`: Contains all functions and the main routine for executing the Q-Learning algorithm.
+- `FINAL_Frozen_Lake.py`: Contains all functions and the main routine for executing the Q-Learning algorithm.
 - `README.md`: Provides project details and usage instructions.
 
