@@ -35,10 +35,10 @@ This repository contains a Python implementation of a Q-Learning agent for the "
     Replace `<repository-url>` with the URL of this GitHub repository.
 
 ## Usage
-Run the `main.py` script to train and evaluate the Q-Learning agent in the Frozen Lake environment:
+Run the `FINAL_Frozen_Lake.py` script to train and evaluate the Q-Learning agent in the Frozen Lake environment:
 
 ```bash
-python main.py
+python FINAL_Frozen_Lake.py
 ```
 
 This will initiate the training process for the agent, evaluate its performance, and run a demonstration in the environment.
