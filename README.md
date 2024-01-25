@@ -47,6 +47,3 @@ This will initiate the training process for the agent, evaluate its performance,
 - `main.py`: Contains all functions and the main routine for executing the Q-Learning algorithm.
 - `README.md`: Provides project details and usage instructions.
 
-## Contributing
-Feel free to contribute to this project. You can do so by forking the repository and submitting a pull request with your proposed changes.
-
