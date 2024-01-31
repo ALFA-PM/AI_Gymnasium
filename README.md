@@ -1,6 +1,7 @@
 
-# Frozen Lake Q-Learning Agent
+# Frozen Lake / Cliff Walking Q-Learning Agent
 ![Alt Text](https://im7.ezgif.com/tmp/ezgif-7-825f30ae62.gif)
+![Alt Text](https://im7.ezgif.com/tmp/ezgif-7-1b2d0c61da.gif)
 ## Overview
 This repository contains a Python implementation of a Q-Learning agent for the "FrozenLake-v1" environment provided by [Gymnasium](https://www.gymnasium.openai.com/). The agent applies reinforcement learning to learn the best strategy for crossing a grid while avoiding holes. This implementation features functions for epsilon-greedy policy selection, Q-Learning, policy evaluation, and a demonstration of the agent's performance.
 
